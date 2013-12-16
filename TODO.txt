@@ -1,0 +1,95 @@
+#===========================================================================
+# LD 28: You Only Get One
+#===========================================================================
+
+
+-> You only get one chance to destroy the core and save humanity blah blah blah...
+
+
+StarWars VI: http://www.youtube.com/watch?v=xPZigWFyK2o
+
+
+
+#===========================================================================
+#
+#===========================================================================
+StarBase:
+	pyramide triangulaire
+	formes géométriques
+
+Camera:
+	derrière le vaisseau
+	suit normalement en Z avec un petit retard sur X et Y
+
+Vaisseau:
+	Cube plat
+	suit la souris
+	Q-D pour le roll ? (pour passer dans certains passage)
+
+	Left Click: mitraillette
+	Right Click: 1 Missile
+
+
+Tutorial / Story -> Dialog en même temmps que le game play
+	- [ComLink] %%% do you copy %%% ?
+	- Loud and clear, well almost...
+	- [ComLink] Ok, do you remember your mission ?
+	- errr of course I do...
+	- [ComLink] Don't mess up this time, I thought I'd never say that but you're our last hope
+	-
+
+
+#===========================================================================
+# Screens
+#===========================================================================
+Main menu
+Story
+Play
+Pause
+Win
+Loose
+
+
+#===========================================================================
+# GamePlay
+#===========================================================================
+Entry [OK]
+Easy [OK]
+with drones
+with breakable
+drones + breakable
+narrow passages
+the core
+
+
+#===========================================================================
+# Components
+#===========================================================================
+HUD
+Dialog for story
+
+
+#===========================================================================
+# Graphics 3D
+#===========================================================================
+Ship
+Drones
+the core
+
+
+#===========================================================================
+# Graphics 2D
+#===========================================================================
+UI
+Dialogs
+HUD
+	Health
+	the Bomb
+
+
+#===========================================================================
+# Sounds
+#===========================================================================
+Music
+	Main Theme
+		first loop [OK]

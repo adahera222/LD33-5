@@ -1,0 +1,1312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"texture2D"
+			],
+			[
+				"back",
+				"background-img"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"Pi",
+				"Piece"
+			],
+			[
+				"add",
+				"addObject"
+			],
+			[
+				"Ent",
+				"EntityUI"
+			],
+			[
+				"Piece",
+				"PieceUI"
+			],
+			[
+				"layer",
+				"layerPieces"
+			],
+			[
+				"la",
+				"layerCards"
+			],
+			[
+				"rul",
+				"rules"
+			],
+			[
+				"type",
+				"typeDiv"
+			],
+			[
+				"div",
+				"divRotate"
+			],
+			[
+				"Point",
+				"PointCard"
+			],
+			[
+				"cre",
+				"createDiv"
+			],
+			[
+				"Card",
+				"CardUI"
+			],
+			[
+				"Planet",
+				"PlanetUI"
+			],
+			[
+				"ui",
+				"uiClass"
+			],
+			[
+				"mou",
+				"mousedown"
+			],
+			[
+				"rule",
+				"ruleDiv"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"view",
+				"viewport"
+			],
+			[
+				"win",
+				"windows"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"editor",
+				"editorFooter"
+			],
+			[
+				"edi",
+				"editorSave"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"ace",
+				"aceEditor"
+			],
+			[
+				"edit",
+				"editorSave"
+			],
+			[
+				"edio",
+				"editor1"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"bec",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"sto",
+				"storage"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"sta",
+				"storageName"
+			],
+			[
+				"test",
+				"test04"
+			],
+			[
+				"text",
+				"textArea"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"pata",
+				"patatiDiv"
+			],
+			[
+				"anima",
+				"animationCnt"
+			],
+			[
+				"assets",
+				"assetsMain"
+			],
+			[
+				"par",
+				"part2"
+			],
+			[
+				"slid",
+				"slideBar"
+			],
+			[
+				"part1",
+				"part1Width"
+			],
+			[
+				"part",
+				"part1"
+			],
+			[
+				"slide",
+				"slidePartBG01"
+			],
+			[
+				"togg",
+				"toggleSound"
+			],
+			[
+				"his",
+				"historyManager"
+			],
+			[
+				"play",
+				"playButton"
+			],
+			[
+				"pla",
+				"play"
+			],
+			[
+				"co",
+				"cookies"
+			],
+			[
+				"pa",
+				"patati"
+			],
+			[
+				"ta",
+				"targetId"
+			],
+			[
+				"tar",
+				"targetId"
+			],
+			[
+				"TARGET",
+				"target"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"addC",
+				"addComponent"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"til",
+				"tiles"
+			],
+			[
+				"Act",
+				"Actor"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"enti",
+				"entity"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"remove",
+				"removeComponent"
+			],
+			[
+				"onE",
+				"onExit"
+			],
+			[
+				"ke",
+				"keycode"
+			],
+			[
+				"draw",
+				"drawTile"
+			],
+			[
+				"from",
+				"fromString"
+			],
+			[
+				"ligh",
+				"lighting"
+			],
+			[
+				"visi",
+				"visited"
+			],
+			[
+				"blo",
+				"blockLight"
+			],
+			[
+				"fov",
+				"fovData"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"di",
+				"dirty"
+			],
+			[
+				"module",
+				"moduleDict"
+			],
+			[
+				"conver",
+				"convertToQdNode"
+			],
+			[
+				"relatio",
+				"relation"
+			],
+			[
+				"chil",
+				"child"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"Chil",
+				"Child"
+			],
+			[
+				"Sub",
+				"SubNode"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pto",
+				"prototype"
+			],
+			[
+				"pixel",
+				"pixelSize"
+			],
+			[
+				"resize",
+				"resizePixel"
+			],
+			[
+				"pixe",
+				"pixelize"
+			],
+			[
+				"short",
+				"shortTalents"
+			],
+			[
+				"sho",
+				"shortInventory"
+			],
+			[
+				"set",
+				"setAbilities"
+			],
+			[
+				"spe",
+				"spells"
+			],
+			[
+				"com",
+				"combatant	Default"
+			],
+			[
+				"comb",
+				"combatArea"
+			],
+			[
+				"get",
+				"getattr"
+			],
+			[
+				"de",
+				"defence"
+			],
+			[
+				"Roll",
+				"RollTN"
+			],
+			[
+				"R",
+				"Roll"
+			],
+			[
+				"cho",
+				"choseOption"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"ini",
+				"initiativeRoll"
+			],
+			[
+				"chara",
+				"characterCreation"
+			],
+			[
+				"combat",
+				"combatant"
+			],
+			[
+				"Tal",
+				"Talent"
+			],
+			[
+				"Talen",
+				"Talent"
+			],
+			[
+				"talen",
+				"talents	Default"
+			],
+			[
+				"talent",
+				"talentPoints"
+			],
+			[
+				"sp",
+				"spells"
+			],
+			[
+				"Sp",
+				"Spell"
+			],
+			[
+				"spel",
+				"spells"
+			],
+			[
+				"cla",
+				"classmethod"
+			],
+			[
+				"Range",
+				"Ranged"
+			],
+			[
+				"spell",
+				"spellPoints"
+			],
+			[
+				"inst",
+				"instanceof"
+			],
+			[
+				"pr",
+				"proto"
+			],
+			[
+				"func",
+				"funcA"
+			],
+			[
+				"super",
+				"superClass"
+			],
+			[
+				"prot",
+				"proto"
+			],
+			[
+				"pri",
+				"privateFunc"
+			],
+			[
+				"stat",
+				"staticVarA"
+			],
+			[
+				"Clas",
+				"classDef"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TODO.txt",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"Color picker"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"typ",
+				"Compile TypeScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"String Utilities: Convert HTML Color Hex To RGB"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"as3",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"white",
+				"Trimmer: Remove trailing whitespace from each line."
+			],
+			[
+				"trim",
+				"Trimmer: Remove trailing whitespace from each line."
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"too",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"com",
+				"Compile TypeScript"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"select",
+				"Bookmarks: Select All"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"confl",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"tri",
+				"Trimmer: Remove trailing whitespace from each line."
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"snip",
+				"Snippet: <title>"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"consol",
+				"SublimeREPL: Tower Console"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sni ",
+				"Snippet: position"
+			],
+			[
+				"syntax un",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"open ",
+				"Open URL"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"snippet",
+				"Snippet: Method"
+			],
+			[
+				"sni",
+				"Snippet: Function"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"snipet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"syn",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"convert to rg",
+				"String Utilities: Convert HTML Color Hex To RGB"
+			],
+			[
+				"convert to he",
+				"String Utilities: Convert HTML Color RGB To Hex"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"sublimeli",
+				"SublimeREPL: Python - Sublime Text 2"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docB",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"Snippet: ",
+				"Snippet: table.sort"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 270.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/GITHUB/LD28/.gitignore",
+		"/E/GITHUB/LD28/.gitattributes",
+		"/E/GITHUB/LD27_Unity/Assets/Scripts/utils/GUIManager.cs",
+		"/E/Dropbox/C#/Otter/Examples/OtterPongGame/shaders/test.frag",
+		"/E/Julien/book.indd",
+		"/E/Dropbox/JS/card01/game.js",
+		"/E/Dropbox/JS/ace-builds-master/editor2.html",
+		"/E/Dropbox/JS/ace-builds-master/editor.html",
+		"/E/Dropbox/JS/editor01/js/vendor/ace/ace.js",
+		"/E/Dropbox/JS/editor01/css/style.css",
+		"/E/EPUB_03/EPUB_03/OEBPS/css/pageHistory.css",
+		"/E/EPUB_03/EPUB_03/OEBPS/pageHistory.xhtml",
+		"/E/EPUB_03/EPUB_03/OEBPS/js/pageHistory2.js",
+		"/E/EPUB_03/EPUB_03/OEBPS/js/pageHistory.js",
+		"/E/EPUB_03/EPUB_03/OEBPS/pageHistory2.xhtml",
+		"/E/EPUB_03/EPUB_03/OEBPS/pageCredits",
+		"/E/EPUB_03/EPUB_03/OEBPS/package.opf",
+		"/E/EPUB_03/EPUB_03/OEBPS/_w",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/lib/vendor/ondras-rot/rot.js",
+		"/E/Dropbox/JS/ROGUELIKE_JS/index.html",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/lib/base.js",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/game.js",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/gameobject.js",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/components.js",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/map.js",
+		"/E/Dropbox/JS/maze.html",
+		"/E/Dropbox/JS/ROGUELIKE_JS/js/player.js",
+		"/E/Dropbox/MISC.txt",
+		"/E/SOFTS/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Dropbox/JS/test03/index.html",
+		"/E/Dropbox/JS/test03/jquery.js",
+		"/E/Dropbox/JS/test03/test03.js",
+		"/E/Download/EPUB_03/EPUB_03/OEBPS/js/pageHistory.js",
+		"/E/Download/EPUB_03/EPUB_03/OEBPS/pageHistory.xhtml",
+		"/E/Download/EPUB_03/EPUB_03/OEBPS/js/testAnimation.js",
+		"/E/Dropbox/SOFTS/project01.sublime-project",
+		"/E/Dropbox/JS/candybox2_source/code/main/RenderLocation.ts",
+		"/E/Dropbox/JS/candybox2_source/code/main/RenderLocation.js",
+		"/E/SOFTS/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/E/SOFTS/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/GITHUB/ROTA/js/lib/map.js",
+		"/E/JEUX/Steam/SteamApps/common/dungeons of dredmor/game/itemDB.xml",
+		"/E/JEUX/Steam/SteamApps/common/dungeons of dredmor/game/spellDB.xml",
+		"/E/JEUX/Steam/SteamApps/common/dungeons of dredmor/game/rooms.xml",
+		"/E/Dropbox/PYTHON/GAMES/ROGUELIKE/base.py",
+		"/E/Dropbox/PYTHON/GAMES/ROGUELIKE/test09/game.py",
+		"/E/Dropbox/PYTHON/test02.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/attrUtils.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base/relation.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base2/meta.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base2/relation.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base2/module2.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base/module.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base/moduleTest.py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/node.py",
+		"/E/Download/python3.3_inventory_v1.0.py",
+		"/E/Download/python33_battlescripta_v1.py",
+		"/E/Download/TextRPG-0.4.8.tar/TextRPG-0.4.8/simple_story.py",
+		"/E/GITHUB/LD27_Unity/.gitignore",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_die.ma",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_idleEncounter.ma",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_idle.ma",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_hurt.ma",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_run.ma",
+		"/E/Dropbox/UNITY/android01/Assets/Maya/scenes/charBase_attack.ma",
+		"/E/LIB/dela-fr-public-u8.dic.xml",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base2/__init__.py",
+		"/C/Users/Stab/AppData/Local/Temp/7zE4DFC.tmp/wg.c",
+		"/C/Users/Stab/AppData/Local/Temp/7zE3812.tmp/window.c",
+		"/C/Users/Stab/AppData/Local/Temp/7zE237F.tmp/window.h",
+		"/C/Users/Stab/AppData/Local/Temp/7zE8D2.tmp/window.h",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base2/__init__;py",
+		"/E/Dropbox/PYTHON/lib2/qd/maya/rig/base/module2.py",
+		"/E/Dropbox/WEB/test08/js/lib2.js",
+		"/E/Dropbox/JS/test/script/vendor/canvasquery.js",
+		"/E/Dropbox/JS/test02/js/base.js",
+		"/E/Dropbox/JS/test02/index.html",
+		"/E/Dropbox/JS/test/script/engine/application.js",
+		"/E/Dropbox/JS/test/script/main.js",
+		"/E/Dropbox/JS/test/script/game.js",
+		"/E/Dropbox/JS/test/index.html",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/talent.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/node.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/magic.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/dice.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/combat.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/characterClass.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/character.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/rpg/action.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/try2/game.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/rpg.txt",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/view.py",
+		"/E/Dropbox/PYTHON/GAMES/RPG/RPG3/rpg.py",
+		"/E/Dropbox/WEB/test08/js/player.js",
+		"/E/Dropbox/WEB/test08/js/view.js",
+		"/E/Dropbox/WEB/test08/js/game.js",
+		"/E/Dropbox/WEB/test08/js/test01.js",
+		"/E/Dropbox/WEB/test08/js/lib.js",
+		"/E/Dropbox/WEB/test08/index.html",
+		"/E/Dropbox/PYTHON/TEST/IMAGE/image/cardGen.py",
+		"/E/Dropbox/PYTHON/lib2/qd/tools/test/viewport.py",
+		"/E/Dropbox/PYTHON/lib2/qd/tools/test/test.py",
+		"/E/Dropbox/STORY/GENERATORS/gen01.html",
+		"/E/Dropbox/TODO/todo.TODO",
+		"/E/Dropbox/WEB/TEST/backbone/test03/js/main.js",
+		"/E/Dropbox/WEB/TEST/backbone/test03/index.html",
+		"/E/Dropbox/WEB/TEST/backbone/test03/js/router.js",
+		"/E/Dropbox/WEB/TEST/backbone/test03/js/views/root.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/views/project/list.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/main.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/index.html",
+		"/E/Dropbox/WEB/TEST/backbone/test01/index.html",
+		"/E/Dropbox/WEB/EaselJS/test01/index.html",
+		"/E/Download/lesson31/lesson31/lesson31.cpp",
+		"/E/Dropbox/WEB/TEST/backbone/test03/js/templates/root.html",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/boilerplate.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/app.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/router.js",
+		"/E/Dropbox/WEB/TEST/backbone/test03/js/test.js",
+		"/E/Dropbox/WEB/TEST/backbone/test02/js/APP;JS",
+		"/E/Dropbox/WEB/TEST/backbone/test01/js/main.js",
+		"/E/SOFTS/Magic Set Editor 2/data/magic.mse-game/script",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/card_fields",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/set_fields",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/game",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/packs",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/script",
+		"/E/SOFTS/Magic Set Editor 2/data/vs.mse-game/word_lists"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Assets",
+			"assets",
+			"array",
+			"aceEditor",
+			"dialo",
+			"border",
+			"D",
+			"63",
+			"[0-9]+\\.$",
+			"slideBar",
+			"barSlide",
+			"page00",
+			"slideBar",
+			"targets",
+			"moveSlide",
+			"autoPlay",
+			"moveSlide",
+			"ruler",
+			"obj",
+			"50",
+			"display",
+			"MenuState",
+			"inputState",
+			"30",
+			"255",
+			"getLightAt",
+			"color",
+			"self",
+			"display",
+			"DEFAULT_WIDTH",
+			"charBase2",
+			"promotionnels",
+			"verb",
+			"wrapper",
+			"cq",
+			"spell",
+			"rpg",
+			"projectListTemplate",
+			"ratio",
+			"))\n",
+			"setOrthoMatrix",
+			"render",
+			"size",
+			"../../../../../../../Dropbox/MiniLD44/StarlingTest01/assets/images/",
+			"base",
+			"add",
+			"getTilesFrom",
+			"console.log",
+			"tiles",
+			"t",
+			"min",
+			"Min",
+			"min",
+			"Min",
+			"comments-link",
+			"comment",
+			"comments_popup_link",
+			"dusktodawn_post_meta",
+			"\\n",
+			"NotImplies",
+			"notImplies",
+			"Tag",
+			"error",
+			"zone",
+			"setData",
+			"set",
+			"setData",
+			"zone",
+			"data",
+			"niche",
+			"console",
+			"marche",
+			"spriteAnimation",
+			"initState",
+			"subDiv",
+			"</a>",
+			"<a>",
+			"effect2",
+			"tickCount",
+			"input",
+			"stop",
+			"start",
+			"_make_text_safeish",
+			"\\",
+			"function",
+			"draw",
+			"180",
+			"console.log",
+			"computeLi",
+			"AntiRadField",
+			"renderGauge",
+			"renderHud",
+			"render",
+			"this.get",
+			"ambient",
+			"dark_fgcolor",
+			"console",
+			"getLightAt",
+			"console",
+			"parse",
+			"this.map",
+			"this.map.entities",
+			"addEntity",
+			"entities",
+			"Array",
+			"this",
+			"function",
+			"_directionKeys",
+			"window",
+			"size",
+			" \n",
+			"visit",
+			"visible",
+			"FOV.Light",
+			"FOV.Ligh",
+			"ROT.FOV",
+			"_drawFog",
+			"cells",
+			"_visibleArea",
+			"ROT.FOV",
+			"ROT.Color",
+			"ROT.Scheduler",
+			"_setEntity",
+			"draw",
+			"tryM",
+			">></",
+			"Game.Display",
+			"ROT.Display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"/",
+			"_keys",
+			"",
+			"super"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TODO.txt",
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "bd4a3733",
+							"encoding_helper_confidence": 0.0,
+							"encoding_helper_encoding": "Unknown",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": -1,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anypreter":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"st",
+				"Love2D/LD25/sprite.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"/E/Dropbox/SOFTS/project01.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true
+}
